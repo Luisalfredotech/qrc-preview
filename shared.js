@@ -202,6 +202,7 @@
       'certs.smallbiz.title':'Small-Business Recognition','certs.smallbiz.sub':'Trusted credentials for public and private sector work',
 
       'home.clients.lbl':'Trusted across regulated industries',
+      'home.clients.eyebrow':'Selected Clients',
       'home.clients.title':'Some of Our Clients',
       'home.clients.sub':'Trusted by leading life sciences, medical device, and healthcare organizations.',
       'clients.tile1':'Top-20 Pharmaceutical','clients.tile1.meta':'Manufacturer',
@@ -293,6 +294,7 @@
       'certs.smallbiz.title':'Reconocimiento de Pequeño Negocio','certs.smallbiz.sub':'Credenciales confiables para trabajo del sector público y privado',
 
       'home.clients.lbl':'De confianza en industrias reguladas',
+      'home.clients.eyebrow':'Clientes Destacados',
       'home.clients.title':'Algunos de Nuestros Clientes',
       'home.clients.sub':'De confianza para organizaciones líderes de ciencias de la vida, dispositivos médicos y salud.',
       'clients.tile1':'Farmacéutica Top-20','clients.tile1.meta':'Manufacturero',
