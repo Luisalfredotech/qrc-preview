@@ -70,42 +70,45 @@
 <div data-slot="mobile-nav"></div>
 
 <main id="main">
+  <!-- HERO -->
   <section class="hero" aria-label="Homepage hero">
     <div class="hero-inner">
       <div class="hero-tag" data-i18n="hero.eyebrow">Regulatory Consulting Since 2005</div>
-      <h1 data-i18n-html="hero.title">Regulatory Compliance and <span class="accent">Validation Consulting</span> for Regulated Industries</h1>
+      <h1 data-i18n-html="hero.title">Spurring Quality and <span class="accent">Solutions</span></h1>
       <p class="hero-sub" data-i18n="hero.sub"></p>
       <div class="hero-actions">
         <a href="contact.html" class="btn btn-orange" data-i18n="hero.cta1">Talk to a QRC Consultant</a>
-        <a href="proven-results.html" class="btn btn-ghost-white" data-i18n="hero.cta2">View Proven Results</a>
+        <a href="core-services.html" class="btn btn-ghost-white" data-i18n="hero.cta.services">Explore Our Services</a>
       </div>
     </div>
   </section>
 
-  <div class="ind-strip" aria-label="Industries served">
-    <div class="ind-inner">
-      <span class="ind-lbl" data-i18n="industry.label">Serving</span>
-      <span class="ind-tag" data-i18n="industry.pharma">Pharmaceutical</span>
-      <span class="ind-tag" data-i18n="industry.medical">Medical Device</span>
-      <span class="ind-tag" data-i18n="industry.biotech">Biotechnology</span>
-      <span class="ind-tag" data-i18n="industry.manuf">Regulated Manufacturing</span>
-      <span class="ind-tag" data-i18n="industry.qsv">Quality Systems &amp; Validation</span>
+  <!-- INTRO TILES: Services / Training / Careers -->
+  <section class="section intro-section">
+    <div class="container intro-tiles">
+      <a class="intro-tile" href="core-services.html">
+        <span class="intro-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 5h16v14H4z"/><path d="M4 9h16M8 13h8M8 16h5"/></svg></span>
+        <h3 data-i18n="home.tiles.services.t">Services</h3>
+        <p data-i18n="home.tiles.services.d"></p>
+        <span class="intro-link" data-i18n="home.tiles.more">Learn more</span>
+      </a>
+      <a class="intro-tile" href="training.html">
+        <span class="intro-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3 8l9-4 9 4-9 4-9-4z"/><path d="M7 10.5V15c0 1.1 2.2 2.5 5 2.5s5-1.4 5-2.5v-4.5"/></svg></span>
+        <h3 data-i18n="home.tiles.training.t">Training</h3>
+        <p data-i18n="home.tiles.training.d"></p>
+        <span class="intro-link" data-i18n="home.tiles.more">Learn more</span>
+      </a>
+      <a class="intro-tile" href="open-opportunities.html">
+        <span class="intro-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 7h16v13H4z"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M4 12h16"/></svg></span>
+        <h3 data-i18n="home.tiles.careers.t">Careers</h3>
+        <p data-i18n="home.tiles.careers.d"></p>
+        <span class="intro-link" data-i18n="home.tiles.more">Learn more</span>
+      </a>
     </div>
-  </div>
+  </section>
 
-  <div class="stats-strip" aria-label="Company at a glance">
-    <div class="stats-inner">
-      <div class="stat-item"><span class="stat-val">20<sup>+</sup></span><span class="stat-lbl" data-i18n="stats.years">Years Experience</span></div>
-      <div class="stat-sep" aria-hidden="true"></div>
-      <div class="stat-item"><span class="stat-val">130<sup>+</sup></span><span class="stat-lbl" data-i18n="stats.businesses">Businesses Consulted</span></div>
-      <div class="stat-sep" aria-hidden="true"></div>
-      <div class="stat-item"><span class="stat-val">230<sup>+</sup></span><span class="stat-lbl" data-i18n="stats.connections">Active Connections</span></div>
-      <div class="stat-sep" aria-hidden="true"></div>
-      <div class="stat-item"><span class="stat-val">PR &amp; FL</span><span class="stat-lbl" data-i18n="stats.offices">Office Locations</span></div>
-    </div>
-  </div>
-
-  <section class="section">
+  <!-- ABOUT OUR COMPANY -->
+  <section class="section section-alt">
     <div class="container about-grid">
       <div class="about-text">
         <div class="split-hd">
@@ -114,22 +117,63 @@
         </div>
         <p data-i18n="home.about.p1"></p>
         <p data-i18n="home.about.p2"></p>
-        <a href="about.html" class="btn btn-outline about-cta" data-i18n="home.about.cta">Our Story</a>
+        <p data-i18n="home.about.p3"></p>
+        <p data-i18n="home.about.p4"></p>
+        <a href="about.html" class="btn btn-outline about-cta" data-i18n="home.about.cta">Read Our Story</a>
       </div>
-      <div class="about-visual" aria-hidden="true">
-        <div class="about-yr">
-          <div class="yr-num">2005</div>
-          <div class="yr-lbl" data-i18n="about.proof.lbl">Founded in Puerto Rico</div>
+      <div class="about-photo">
+        <img src="assets/who-we-support/quality-compliance-leaders.png" alt="QRC consultants reviewing quality and compliance documentation" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <!-- MISSION & VISION -->
+  <section class="section mv-band">
+    <div class="container">
+      <div class="split-hd">
+        <span class="sh-top" data-i18n="about.mv.eyebrow">Our</span>
+        <span class="sh-bot" data-i18n="about.mv.title">Mission &amp; Vision</span>
+      </div>
+      <div class="mv-grid">
+        <div class="mv-item">
+          <span class="mv-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/></svg></span>
+          <h3 data-i18n="about.mv.mission.title">Mission</h3>
+          <p data-i18n="about.mv.mission.copy"></p>
+        </div>
+        <div class="mv-item">
+          <span class="mv-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg></span>
+          <h3 data-i18n="about.mv.vision.title">Vision</h3>
+          <p data-i18n="about.mv.vision.copy"></p>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- OUR PRACTICE AREAS -->
+  <section class="section">
+    <div class="container">
+      <div class="split-hd">
+        <span class="sh-top" data-i18n="home.practice.top">Our Practice</span>
+        <span class="sh-bot" data-i18n="home.practice.bot">Areas</span>
+        <p class="sh-desc" data-i18n="home.practice.intro"></p>
+      </div>
+      <div class="practice-milestones">
+        <div class="ms-item"><span class="ms-num">130<sup>+</sup></span><span class="ms-lbl" data-i18n="stats.businesses">Businesses Consulted</span></div>
+        <div class="ms-item"><span class="ms-num">230<sup>+</sup></span><span class="ms-lbl" data-i18n="stats.connections">Active Connections</span></div>
+      </div>
+      <div class="svc-grid" id="home-core-grid"></div>
+      <div style="margin-top:32px;text-align:center;">
+        <a href="core-services.html" class="btn btn-outline" data-i18n="home.core.cta">Explore Core Services</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- OUR TEAM -->
   <section class="section section-alt">
     <div class="container">
       <div class="split-hd">
-        <span class="eyebrow" data-i18n="home.team.eyebrow">Leadership</span>
-        <span class="sh-bot" data-i18n="home.team.title">Founders &amp; Practitioners</span>
+        <span class="eyebrow" data-i18n="home.team.eyebrow">Our People</span>
+        <span class="sh-bot" data-i18n="home.team.title">The QRC Team</span>
       </div>
       <div class="team-grid">
         <article class="team-card">
@@ -172,253 +216,32 @@
     </div>
   </section>
 
-  <section class="section">
+  <!-- CONTACT US -->
+  <section class="section home-contact">
     <div class="container">
       <div class="split-hd">
-        <span class="eyebrow" data-i18n="home.core.eyebrow">Our Practice</span>
-        <span class="sh-bot" data-i18n="home.core.title">Core Services</span>
-        <p class="sh-desc" data-i18n="home.core.intro"></p>
+        <span class="sh-top" data-i18n="home.contact.top">Contact</span>
+        <span class="sh-bot" data-i18n="home.contact.bot">Us</span>
+        <p class="sh-desc" data-i18n="home.contact.intro"></p>
       </div>
-      <div class="svc-grid" id="home-core-grid"></div>
-      <div style="margin-top:32px;text-align:center;">
-        <a href="core-services.html" class="btn btn-outline" data-i18n="home.core.cta">Explore Core Services</a>
-      </div>
+      <form class="contact-form home-contact-form">
+        <div class="field-row">
+          <div class="field"><label for="f-name" data-i18n="contact.form.name">Full Name <sup>*</sup></label><input id="f-name" name="name" type="text" required></div>
+          <div class="field"><label for="f-email" data-i18n="contact.form.email">Email <sup>*</sup></label><input id="f-email" name="email" type="email" required></div>
+        </div>
+        <div class="field-row">
+          <div class="field"><label for="f-company" data-i18n="contact.form.company">Company</label><input id="f-company" name="company" type="text"></div>
+          <div class="field"><label for="f-phone" data-i18n="contact.form.phone">Phone</label><input id="f-phone" name="phone" type="tel"></div>
+        </div>
+        <div class="field">
+          <label for="f-interest" data-i18n="contact.form.interest">Service of Interest</label>
+          <select id="f-interest" name="interest"></select>
+        </div>
+        <div class="field"><label for="f-message" data-i18n="contact.form.message">Message <sup>*</sup></label><textarea id="f-message" name="message" rows="4" required></textarea></div>
+        <button type="submit" class="form-btn" data-i18n="contact.form.submit">Send Message</button>
+        <p class="form-note" data-i18n="contact.form.note"></p>
+      </form>
     </div>
-  </section>
-
-  <section class="section tech-services">
-    <div class="container">
-      <div class="split-hd cyan">
-        <span class="eyebrow cyan" data-i18n="home.tech.eyebrow">Technology for Regulated Industries</span>
-        <span class="sh-bot" data-i18n="home.tech.title">Technology Services</span>
-        <p class="sh-desc" data-i18n="home.tech.intro"></p>
-      </div>
-      <div class="tech-grid" id="home-tech-grid"></div>
-      <div style="margin-top:32px;text-align:center;">
-        <a href="technology-services.html" class="btn btn-cyan" data-i18n="home.tech.cta">Explore Technology Services</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="section section-alt">
-    <div class="container">
-      <div class="split-hd">
-        <span class="eyebrow" data-i18n="home.industries.eyebrow">Industries</span>
-        <span class="sh-bot" data-i18n="home.industries.title">We Serve</span>
-        <p class="sh-desc" data-i18n="home.industries.intro"></p>
-      </div>
-      <div class="industries-grid">
-        <div class="industry-card">
-          <div class="industry-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 2h6v4l4 4v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V10l4-4V2z"/><path d="M12 11v6M9 14h6"/></svg></div>
-          <h3 data-i18n="industries.pharma.title">Pharmaceutical</h3>
-          <p data-i18n="industries.pharma.desc"></p>
-        </div>
-        <div class="industry-card">
-          <div class="industry-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h4l3-9 4 18 3-9h4"/></svg></div>
-          <h3 data-i18n="industries.medical.title">Medical Device</h3>
-          <p data-i18n="industries.medical.desc"></p>
-        </div>
-        <div class="industry-card">
-          <div class="industry-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg></div>
-          <h3 data-i18n="industries.biotech.title">Biotechnology</h3>
-          <p data-i18n="industries.biotech.desc"></p>
-        </div>
-        <div class="industry-card">
-          <div class="industry-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21V9l9-6 9 6v12"/><path d="M9 21v-7h6v7"/></svg></div>
-          <h3 data-i18n="industries.manuf.title">Regulated Manufacturing</h3>
-          <p data-i18n="industries.manuf.desc"></p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section clients-showcase" aria-labelledby="clients-h">
-    <div class="container">
-      <div class="clients-head">
-        <span class="eyebrow" data-i18n="home.clients.eyebrow">Selected Clients</span>
-        <h2 id="clients-h" class="clients-title" data-i18n="home.clients.title">Some of Our Clients</h2>
-        <p class="clients-sub" data-i18n="home.clients.sub">Trusted by leading life sciences, medical device, and healthcare organizations.</p>
-      </div>
-      <div class="clients-panel" aria-label="Selected clients">
-        <div class="clients-grid">
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/amgen.png" alt="Amgen"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/astrazeneca.png" alt="AstraZeneca"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/baxter.png" alt="Baxter"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/sartorius.png" alt="Sartorius"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/bd.png" alt="BD"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/boston-scientific.png" alt="Boston Scientific"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/avara.png" alt="Avara"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/bristol-myers-squibb.png" alt="Bristol Myers Squibb"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/viatris.png" alt="Viatris"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/kenvue.png" alt="Kenvue"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/fresenius-medical-care.png" alt="Fresenius Medical Care"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/terumo.png" alt="Terumo"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/abbott.png" alt="Abbott"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/abbvie.png" alt="AbbVie"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/lilly.png" alt="Lilly"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/ibp-pharmaceuticals.png" alt="IBP Pharmaceuticals Inc."></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/water-corporation.png" alt="Water Corporation"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/west.png" alt="West"></div>
-          <div class="client-logo-card"><img class="cl-logo" src="assets/client-logos/janssen-johnson-johnson.png" alt="Janssen / Johnson &amp; Johnson"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="split-hd">
-        <span class="sh-top" data-i18n="home.results.eyebrow">Proven</span>
-        <span class="sh-bot" data-i18n="home.results.title">Results</span>
-        <p class="sh-desc" data-i18n="home.results.intro"></p>
-      </div>
-      <ul class="outcomes-list">
-        <li data-i18n="results.outcome.1"></li>
-        <li data-i18n="results.outcome.2"></li>
-        <li data-i18n="results.outcome.3"></li>
-      </ul>
-      <div style="margin-top:24px;">
-        <a href="proven-results.html" class="btn btn-outline" data-i18n="home.results.cta">View All Results</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="section section-alt">
-    <div class="container">
-      <div class="split-hd">
-        <span class="eyebrow" data-i18n="home.training.eyebrow">Training</span>
-        <span class="sh-bot" data-i18n="home.training.title">GMP Training Built by Practitioners</span>
-        <p class="sh-desc" data-i18n="home.training.intro"></p>
-      </div>
-      <a href="training.html" class="btn btn-outline" data-i18n="home.training.cta">View Training Programs</a>
-    </div>
-  </section>
-
-  <section class="section creds-section">
-    <div class="container">
-      <div class="split-hd">
-        <span class="eyebrow" data-i18n="home.certs.eyebrow">Compliance</span>
-        <span class="sh-bot" data-i18n="home.certs.title">Credentials &amp; Recognition</span>
-        <p class="sh-desc" data-i18n="home.certs.intro"></p>
-      </div>
-      <div class="creds-grid">
-        <div class="creds-card">
-          <div class="creds-badge">
-            <img src="assets/credentials/hubzone-sba-wosb.png" alt="HUBZone Certified — U.S. Small Business Administration" loading="lazy">
-          </div>
-          <h3 data-i18n="certs.hubzone.title">HUBZone Certified</h3>
-          <p data-i18n="certs.hubzone.sub">U.S. Small Business Administration</p>
-        </div>
-        <div class="creds-card">
-          <div class="creds-badge">
-            <img src="assets/credentials/prmsdc.png" alt="PRMSDC Member — Puerto Rico Minority Supplier Development Council" loading="lazy">
-          </div>
-          <h3 data-i18n="certs.prmsdc.title">PRMSDC Member</h3>
-          <p data-i18n="certs.prmsdc.sub">Puerto Rico Minority Supplier Development Council</p>
-        </div>
-        <div class="creds-card">
-          <div class="creds-badge">
-            <img src="assets/credentials/industriales-puerto-rico.png" alt="Industriales de Puerto Rico — Industry Association Member" loading="lazy">
-          </div>
-          <h3 data-i18n="certs.industriales.title">Industriales de Puerto Rico</h3>
-          <p data-i18n="certs.industriales.sub">Industry Association Member</p>
-        </div>
-        <div class="creds-card">
-          <div class="creds-mark" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 21V10l9-6 9 6v11"/><path d="M9 21v-7h6v7"/><path d="M12 4v6"/></svg>
-          </div>
-          <h3 data-i18n="certs.smallbiz.title">Small-Business Recognition</h3>
-          <p data-i18n="certs.smallbiz.sub">Trusted credentials for public and private sector work</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section support-section">
-    <div class="container">
-      <div class="split-hd">
-        <span class="eyebrow" data-i18n="home.support.eyebrow">Who</span>
-        <span class="sh-bot" data-i18n="home.support.title">We Support</span>
-        <p class="sh-desc" data-i18n="home.support.sub"></p>
-      </div>
-      <div class="support-grid">
-        <article class="support-card">
-          <div class="support-visual">
-            <img src="assets/who-we-support/quality-compliance-leaders.png" alt="Quality and compliance leaders reviewing GxP documentation" loading="lazy">
-          </div>
-          <div class="support-body">
-            <h3 data-i18n="support.1.title">Quality &amp; Compliance Leaders</h3>
-            <p data-i18n="support.1.desc"></p>
-          </div>
-        </article>
-        <article class="support-card">
-          <div class="support-visual">
-            <img src="assets/who-we-support/operations-manufacturing-managers.png" alt="Operations and manufacturing managers on a regulated production floor" loading="lazy">
-          </div>
-          <div class="support-body">
-            <h3 data-i18n="support.2.title">Operations &amp; Manufacturing Managers</h3>
-            <p data-i18n="support.2.desc"></p>
-          </div>
-        </article>
-        <article class="support-card">
-          <div class="support-visual">
-            <img src="assets/who-we-support/validation-cqv-teams.png" alt="Validation and CQV team executing IQ/OQ/PQ protocols" loading="lazy">
-          </div>
-          <div class="support-body">
-            <h3 data-i18n="support.3.title">Validation &amp; CQV Teams</h3>
-            <p data-i18n="support.3.desc"></p>
-          </div>
-        </article>
-        <article class="support-card">
-          <div class="support-visual">
-            <img src="assets/who-we-support/engineering-maintenance-professionals.png" alt="Engineering and maintenance professionals working on regulated equipment" loading="lazy">
-          </div>
-          <div class="support-body">
-            <h3 data-i18n="support.4.title">Engineering &amp; Maintenance Professionals</h3>
-            <p data-i18n="support.4.desc"></p>
-          </div>
-        </article>
-        <article class="support-card">
-          <div class="support-visual">
-            <img src="assets/who-we-support/supply-chain-warehouse-teams.png" alt="Supply chain and warehouse team in a regulated facility" loading="lazy">
-          </div>
-          <div class="support-body">
-            <h3 data-i18n="support.5.title">Supply Chain &amp; Warehouse Teams</h3>
-            <p data-i18n="support.5.desc"></p>
-          </div>
-        </article>
-        <article class="support-card">
-          <div class="support-visual">
-            <img src="assets/who-we-support/training-workforce-development.png" alt="Training and workforce development session in progress" loading="lazy">
-          </div>
-          <div class="support-body">
-            <h3 data-i18n="support.6.title">Training &amp; Workforce Development</h3>
-            <p data-i18n="support.6.desc"></p>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="careers-panel">
-        <div>
-          <span class="eyebrow" data-i18n="home.careers.eyebrow">Careers</span>
-          <h2 data-i18n="home.careers.title">Build a Career in Regulated Industries</h2>
-          <p data-i18n="home.careers.copy"></p>
-        </div>
-        <div class="careers-cta">
-          <a href="open-opportunities.html" class="btn btn-orange" data-i18n="home.careers.cta">Open Opportunities</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="cta-band">
-    <h2 data-i18n="cta.contact.title">Ready to talk about your project?</h2>
-    <p data-i18n="cta.contact.copy"></p>
-    <a class="btn btn-orange" href="contact.html" data-i18n="cta.contact.btn">Talk to a QRC Consultant</a>
   </section>
 </main>
 

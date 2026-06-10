@@ -162,16 +162,22 @@
 
       'nav.home':'Home','nav.about':'About','nav.core':'Core Services','nav.tech':'Technology Services','nav.results':'Results','nav.training':'Training','nav.careers':'Careers','nav.contact':'Contact','nav.cta':'Contact Us',
 
-      'hero.eyebrow':'Spurring Quality and Solutions · Since 2005',
-      'hero.title':'Regulatory Compliance and <span class="accent">Validation Consulting</span> for Regulated Industries',
-      'hero.sub':'QRC Group helps pharmaceutical, medical device, biotechnology, and regulated manufacturing teams strengthen quality systems, validation, documentation, training, and project execution.',
-      'hero.cta1':'Talk to a QRC Consultant','hero.cta2':'View Proven Results','crumb.home':'Home',
+      'hero.eyebrow':'Regulatory Consulting Since 2005',
+      'hero.title':'Spurring Quality and <span class="accent">Solutions</span>',
+      'hero.sub':'QRC Group, with over 20 years of experience in the industry, is the expert you need. We provide consulting services to pharmaceutical, medical device, biotechnology, and other regulated companies.',
+      'hero.cta1':'Talk to a QRC Consultant','hero.cta.services':'Explore Our Services','hero.cta2':'View Proven Results','crumb.home':'Home',
+      'home.tiles.more':'Learn more',
+      'home.tiles.services.t':'Services','home.tiles.services.d':'QRC Group provides consulting services, since 2005, to pharmaceutical, medical device, and other regulated manufacturing companies.',
+      'home.tiles.training.t':'Training','home.tiles.training.d':'We reinforce our commitment to clients with training and learning opportunities, delivered at our facilities or on-site.',
+      'home.tiles.careers.t':'Careers','home.tiles.careers.d':'Changing a career is changing your destiny. We see an employment decision as far more than a résumé.',
+      'home.practice.top':'Our Practice','home.practice.bot':'Areas','home.practice.intro':'Eight specialized practice areas covering the full regulatory and validation lifecycle, from qualification protocols to complete project execution.',
+      'home.contact.top':'Contact','home.contact.bot':'Us','home.contact.intro':'Tell us about your project. A QRC consultant will follow up within one business day.',
 
       'industry.label':'Serving','industry.pharma':'Pharmaceutical','industry.medical':'Medical Device','industry.biotech':'Biotechnology','industry.manuf':'Regulated Manufacturing','industry.qsv':'Quality Systems & Validation',
 
       'stats.years':'Years Experience','stats.businesses':'Businesses Consulted','stats.connections':'Active Connections','stats.offices':'Office Locations',
 
-      'home.about.top':'About Our','home.about.bot':'Company','home.about.p1':'QRC Group was founded in 2005 in Puerto Rico. We specialize in regulatory compliance and validation consulting for pharmaceutical, medical device, biotechnology, and regulated manufacturing industries.','home.about.p2':'Two decades on, our practitioners deliver the validation, regulatory, and quality programs that let regulated companies launch on time and stay inspection-ready.','home.about.cta':'Our Story',
+      'home.about.top':'About Our','home.about.bot':'Company','home.about.p1':'QRC Group was founded in 2005 in Puerto Rico. We specialize in regulatory compliance and validation consulting for pharmaceutical, medical device, biotechnology, and regulated manufacturing industries.','home.about.p2':'We specialize in regulatory compliance and validation consulting for the pharmaceutical, medical device, biotechnology, and other regulated industries.','home.about.p3':'Over twenty years, QRC Group has delivered top-quality validation, regulatory, and compliance solutions.','home.about.p4':'Recognized as one of the top suppliers in the industry, providing the best resources for each project and comprehensive project management across every phase.','home.about.cta':'Read Our Story',
 
       'home.team.eyebrow':'Our People','home.team.title':'The QRC Team','home.team.cta':'Meet the Team',
 
@@ -247,23 +253,29 @@
 
       'svc.learnmore':'Learn more','tech.learnmore':'Talk to a specialist','tech.cap.label':'Capabilities',
 
-      'footer.about':'Qualification and Regulatory Consultants Group: regulatory compliance, validation, quality systems, and technology consulting for pharmaceutical, medical device, biotechnology, and regulated manufacturing industries since 2005.','footer.col.core':'Core Services','footer.col.tech':'Technology Services','footer.col.company':'Company','footer.col.contact':'Contact','footer.rights':'All rights reserved.','footer.tagline':'Regulatory compliance · Validation · Quality systems · Technology'
+      'footer.about':'Qualification and Regulatory Consultants Group: regulatory compliance, validation, quality systems, and technology consulting for pharmaceutical, medical device, biotechnology, and regulated manufacturing industries since 2005.','footer.col.core':'Core Services','footer.col.tech':'Technology Services','footer.col.company':'Company','footer.col.contact':'Contact','footer.rights':'All rights reserved.','footer.tagline':'Regulatory compliance · Validation · Quality systems · Technology','footer.findus':'Find Us','footer.us.label':'US Office','footer.care':'Customer Care','footer.emails':'Our Emails','footer.email.sales':'Sales & Services','footer.email.employees':'Employees','footer.email.jobs':'Jobs','footer.connect':'Connect With Us','footer.connect.copy':'Sign up for our mailing list to get the latest updates and news.','footer.connect.ph':'Email Address','footer.connect.submit':'Submit','footer.creds':'Credentials'
     },
     es: {
       'a11y.skip':'Saltar al contenido','a11y.facebook':'Visitar QRC Group en Facebook','a11y.linkedin':'Visitar QRC Group en LinkedIn','a11y.lang.group':'Idioma','a11y.logo':'Inicio QRC Group','a11y.logo.alt':'QRC Group — 20 Años','a11y.nav.main':'Navegación principal','a11y.menu.open':'Abrir menú de navegación','a11y.menu.close':'Cerrar menú','a11y.crumb':'Migas de pan',
 
       'nav.home':'Inicio','nav.about':'Nosotros','nav.core':'Servicios Principales','nav.tech':'Servicios de Tecnología','nav.results':'Resultados','nav.training':'Capacitación','nav.careers':'Carreras','nav.contact':'Contacto','nav.cta':'Contáctanos',
 
-      'hero.eyebrow':'Impulsando Calidad y Soluciones · Desde 2005',
-      'hero.title':'Cumplimiento Regulatorio y <span class="accent">Consultoría de Validación</span> para Industrias Reguladas',
-      'hero.sub':'QRC Group apoya a equipos farmacéuticos, de dispositivos médicos, biotecnología y manufactura regulada en sistemas de calidad, validación, documentación, capacitación y ejecución de proyectos.',
-      'hero.cta1':'Habla con un Consultor QRC','hero.cta2':'Ver Resultados Comprobados','crumb.home':'Inicio',
+      'hero.eyebrow':'Consultoría Regulatoria desde 2005',
+      'hero.title':'Impulsando Calidad y <span class="accent">Soluciones</span>',
+      'hero.sub':'QRC Group, con más de 20 años de experiencia en la industria, es el experto que necesita. Brindamos servicios de consultoría a empresas farmacéuticas, de dispositivos médicos, biotecnología y otras industrias reguladas.',
+      'hero.cta1':'Habla con un Consultor QRC','hero.cta.services':'Conoce Nuestros Servicios','hero.cta2':'Ver Resultados Comprobados','crumb.home':'Inicio',
+      'home.tiles.more':'Saber más',
+      'home.tiles.services.t':'Servicios','home.tiles.services.d':'QRC Group brinda servicios de consultoría, desde 2005, a empresas farmacéuticas, de dispositivos médicos y otras industrias reguladas.',
+      'home.tiles.training.t':'Capacitación','home.tiles.training.d':'Reforzamos nuestro compromiso con clientes mediante capacitación y aprendizaje, en nuestras instalaciones o en sitio.',
+      'home.tiles.careers.t':'Carreras','home.tiles.careers.d':'Cambiar de carrera es cambiar tu destino. Una decisión de empleo es mucho más que un currículo.',
+      'home.practice.top':'Nuestras Áreas','home.practice.bot':'de Práctica','home.practice.intro':'Ocho áreas de práctica especializadas que cubren todo el ciclo regulatorio y de validación, desde protocolos de calificación hasta la ejecución completa de proyectos.',
+      'home.contact.top':'Contáctanos','home.contact.bot':'','home.contact.intro':'Cuéntanos sobre tu proyecto. Un consultor QRC dará seguimiento en un día hábil.',
 
       'industry.label':'Servimos','industry.pharma':'Farmacéutica','industry.medical':'Dispositivos Médicos','industry.biotech':'Biotecnología','industry.manuf':'Manufactura Regulada','industry.qsv':'Sistemas de Calidad y Validación',
 
       'stats.years':'Años de Experiencia','stats.businesses':'Empresas Asesoradas','stats.connections':'Conexiones Activas','stats.offices':'Oficinas',
 
-      'home.about.top':'Sobre','home.about.bot':'Nosotros','home.about.p1':'QRC Group fue fundado en 2005 en Puerto Rico. Nos especializamos en consultoría de cumplimiento regulatorio y validación para industrias farmacéutica, de dispositivos médicos, biotecnología y manufactura regulada.','home.about.p2':'Dos décadas después, nuestros profesionales entregan los programas de validación, regulatorios y de calidad que permiten a empresas reguladas lanzar a tiempo y mantenerse listas para inspección.','home.about.cta':'Nuestra Historia',
+      'home.about.top':'Sobre','home.about.bot':'Nosotros','home.about.p1':'QRC Group fue fundado en 2005 en Puerto Rico. Nos especializamos en consultoría de cumplimiento regulatorio y validación para industrias farmacéutica, de dispositivos médicos, biotecnología y manufactura regulada.','home.about.p2':'Nos especializamos en consultoría de cumplimiento regulatorio y validación para las industrias farmacéutica, de dispositivos médicos, biotecnología y otras industrias reguladas.','home.about.p3':'Durante más de veinte años, QRC Group ha entregado soluciones de validación, regulatorias y de cumplimiento de la más alta calidad.','home.about.p4':'Reconocidos como uno de los principales proveedores de la industria, aportando los mejores recursos para cada proyecto y una gestión integral en todas sus fases.','home.about.cta':'Nuestra Historia',
 
       'home.team.eyebrow':'Nuestra Gente','home.team.title':'El Equipo QRC','home.team.cta':'Conoce al Equipo',
 
@@ -339,7 +351,7 @@
 
       'svc.learnmore':'Ver más','tech.learnmore':'Hablar con un especialista','tech.cap.label':'Capacidades',
 
-      'footer.about':'Qualification and Regulatory Consultants Group: consultoría de cumplimiento regulatorio, validación, sistemas de calidad y tecnología para industrias farmacéutica, de dispositivos médicos, biotecnología y manufactura regulada desde 2005.','footer.col.core':'Servicios Principales','footer.col.tech':'Servicios de Tecnología','footer.col.company':'Compañía','footer.col.contact':'Contacto','footer.rights':'Todos los derechos reservados.','footer.tagline':'Cumplimiento regulatorio · Validación · Sistemas de calidad · Tecnología'
+      'footer.about':'Qualification and Regulatory Consultants Group: consultoría de cumplimiento regulatorio, validación, sistemas de calidad y tecnología para industrias farmacéutica, de dispositivos médicos, biotecnología y manufactura regulada desde 2005.','footer.col.core':'Servicios Principales','footer.col.tech':'Servicios de Tecnología','footer.col.company':'Compañía','footer.col.contact':'Contacto','footer.rights':'Todos los derechos reservados.','footer.tagline':'Cumplimiento regulatorio · Validación · Sistemas de calidad · Tecnología','footer.findus':'Encuéntranos','footer.us.label':'Oficina EE. UU.','footer.care':'Atención al Cliente','footer.emails':'Nuestros Correos','footer.email.sales':'Ventas y Servicios','footer.email.employees':'Empleados','footer.email.jobs':'Empleos','footer.connect':'Conéctate','footer.connect.copy':'Suscríbete a nuestra lista para recibir las últimas novedades y noticias.','footer.connect.ph':'Correo Electrónico','footer.connect.submit':'Enviar','footer.creds':'Credenciales'
     }
   };
 
@@ -426,42 +438,46 @@
   }
 
   function footerHTML() {
+    var fb = '<a href="https://www.facebook.com/QRCgroupllc/" target="_blank" rel="noopener noreferrer" data-i18n-aria="a11y.facebook"><svg viewBox="0 0 24 24"><path d="M13.5 21v-7.5h2.5l.4-3.1h-2.9V8.5c0-.9.3-1.5 1.6-1.5h1.5V4.2c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.1H8v3.1h2.7V21h2.8z"/></svg></a>';
+    var li = '<a href="https://www.linkedin.com/company/qrc-group-inc-" target="_blank" rel="noopener noreferrer" data-i18n-aria="a11y.linkedin"><svg viewBox="0 0 24 24"><path d="M6.94 7.5a1.94 1.94 0 1 1 0-3.88 1.94 1.94 0 0 1 0 3.88zM5 9h3.88v11H5V9zm6 0h3.7v1.5h.05c.52-.94 1.79-1.94 3.7-1.94 3.95 0 4.68 2.6 4.68 5.98V20H19V15c0-1.2-.02-2.74-1.67-2.74-1.67 0-1.93 1.3-1.93 2.65V20H11V9z"/></svg></a>';
     return '<footer class="site-footer"><div class="footer-grid">' +
-      '<div class="footer-brand">' +
-        '<img src="assets/qrc-brand/qrc-logo-20-years.png" alt="QRC Group" data-i18n-alt="a11y.logo.alt" width="160" height="56">' +
-        '<p data-i18n="footer.about"></p>' +
-        '<div class="footer-social">' +
-          '<a href="https://www.facebook.com/QRCgroupllc/" target="_blank" rel="noopener noreferrer" data-i18n-aria="a11y.facebook">' +
-            '<svg viewBox="0 0 24 24"><path d="M13.5 21v-7.5h2.5l.4-3.1h-2.9V8.5c0-.9.3-1.5 1.6-1.5h1.5V4.2c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.1H8v3.1h2.7V21h2.8z"/></svg>' +
-          '</a>' +
-          '<a href="https://www.linkedin.com/company/qrc-group-inc-" target="_blank" rel="noopener noreferrer" data-i18n-aria="a11y.linkedin">' +
-            '<svg viewBox="0 0 24 24"><path d="M6.94 7.5a1.94 1.94 0 1 1 0-3.88 1.94 1.94 0 0 1 0 3.88zM5 9h3.88v11H5V9zm6 0h3.7v1.5h.05c.52-.94 1.79-1.94 3.7-1.94 3.95 0 4.68 2.6 4.68 5.98V20H19V15c0-1.2-.02-2.74-1.67-2.74-1.67 0-1.93 1.3-1.93 2.65V20H11V9z"/></svg>' +
-          '</a>' +
-        '</div>' +
-      '</div>' +
-      '<div class="footer-col"><h4 data-i18n="footer.col.core"></h4><ul id="footer-core"></ul></div>' +
-      '<div class="footer-col"><h4 data-i18n="footer.col.tech"></h4><ul id="footer-tech"></ul></div>' +
-      '<div class="footer-col"><h4 data-i18n="footer.col.company"></h4><ul>' +
-        '<li><a href="about.html" data-i18n="nav.about">About</a></li>' +
-        '<li><a href="proven-results.html" data-i18n="nav.results">Results</a></li>' +
-        '<li><a href="training.html" data-i18n="nav.training">Training</a></li>' +
-        '<li><a href="open-opportunities.html" data-i18n="nav.careers">Careers</a></li>' +
-        '<li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>' +
-      '</ul></div>' +
-      '<div class="footer-col"><h4 data-i18n="footer.col.contact"></h4>' +
+      '<div class="footer-col footer-find">' +
+        '<img class="footer-logo" src="assets/qrc-brand/qrc-logo-20-years.png" alt="QRC Group" data-i18n-alt="a11y.logo.alt" width="150" height="52">' +
+        '<div class="footer-social">' + fb + li + '</div>' +
+        '<h4 data-i18n="footer.findus">Find Us</h4>' +
         '<div class="foot-contact"><strong data-i18n="contact.pr.title"></strong>' +
-          '<span data-i18n="contact.pr.line1"></span><span data-i18n="contact.pr.line2"></span>' +
-          '<a href="tel:+19393367724">+1-939-336-7724</a></div>' +
-        '<div class="foot-contact"><strong data-i18n="contact.fl.title"></strong>' +
-          '<span data-i18n="contact.fl.line1"></span><span data-i18n="contact.fl.line2"></span>' +
-          '<a href="tel:+19544220926">+1-954-422-0926</a></div>' +
-        '<div class="foot-contact"><strong data-i18n="contact.email.title"></strong>' +
-          '<a href="mailto:info@qrcgroup.com">info@qrcgroup.com</a></div>' +
+          '<span data-i18n="contact.pr.line1"></span><span data-i18n="contact.pr.line2"></span></div>' +
+        '<div class="foot-contact"><strong data-i18n="footer.us.label">US Office</strong>' +
+          '<span data-i18n="contact.fl.line1"></span><span data-i18n="contact.fl.line2"></span></div>' +
+      '</div>' +
+      '<div class="footer-col">' +
+        '<h4 data-i18n="footer.care">Customer Care</h4>' +
+        '<div class="foot-contact"><a href="tel:+19393367724">+1-939-336-7724</a><a href="tel:+19544220926">+1-954-422-0926</a></div>' +
+        '<h4 class="foot-h4-gap" data-i18n="footer.emails">Our Emails</h4>' +
+        '<div class="foot-contact"><strong data-i18n="footer.email.sales">Sales &amp; Services</strong><a href="mailto:info@qrcgroup.com">info@qrcgroup.com</a></div>' +
+        '<div class="foot-contact"><strong data-i18n="footer.email.employees">Employees</strong><a href="mailto:humanresources@qrcgroup.com">humanresources@qrcgroup.com</a></div>' +
+        '<div class="foot-contact"><strong data-i18n="footer.email.jobs">Jobs</strong><a href="mailto:recruiter@qrcgroup.com">recruiter@qrcgroup.com</a></div>' +
+      '</div>' +
+      '<div class="footer-col">' +
+        '<h4 data-i18n="footer.connect">Connect With Us</h4>' +
+        '<p class="foot-connect-copy" data-i18n="footer.connect.copy"></p>' +
+        '<form class="foot-signup" onsubmit="return false;">' +
+          '<input type="email" data-i18n-ph="footer.connect.ph" aria-label="Email Address">' +
+          '<button type="submit" data-i18n="footer.connect.submit">Submit</button>' +
+        '</form>' +
+      '</div>' +
+      '<div class="footer-col footer-creds">' +
+        '<h4 data-i18n="footer.creds">Credentials</h4>' +
+        '<div class="foot-creds-row">' +
+          '<img src="assets/credentials/hubzone-sba-wosb.png" alt="HUBZone Certified" loading="lazy">' +
+          '<img src="assets/credentials/prmsdc.png" alt="PRMSDC Member" loading="lazy">' +
+          '<img src="assets/credentials/industriales-puerto-rico.png" alt="Industriales de Puerto Rico" loading="lazy">' +
+        '</div>' +
       '</div>' +
     '</div>' +
     '<div class="footer-bottom">' +
       '<p><span id="copy-year">2026</span> &copy; QRC Group. <span data-i18n="footer.rights"></span></p>' +
-      '<p data-i18n="footer.tagline"></p>' +
+      '<nav class="footer-bottom-nav"><a href="about.html" data-i18n="nav.about">About</a><a href="core-services.html" data-i18n="nav.core">Core Services</a><a href="training.html" data-i18n="nav.training">Training</a><a href="open-opportunities.html" data-i18n="nav.careers">Careers</a><a href="contact.html" data-i18n="nav.contact">Contact</a></nav>' +
     '</div></footer>';
   }
 
@@ -684,6 +700,10 @@
     document.querySelectorAll('[data-i18n-aria-group]').forEach(function (el) {
       var k = el.getAttribute('data-i18n-aria-group');
       if (dict[k] != null) el.setAttribute('aria-label', dict[k]);
+    });
+    document.querySelectorAll('[data-i18n-ph]').forEach(function (el) {
+      var k = el.getAttribute('data-i18n-ph');
+      if (dict[k] != null) el.setAttribute('placeholder', dict[k]);
     });
 
     // Page title (if data-i18n-title meta exists)
